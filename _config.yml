@@ -90,11 +90,11 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
+author_profile: true
 # Site Author
 author:
   name             : "Kim Subin"
-  avatar           : "/assets/sb.jpg"
+  avatar           : "/assets/me.jpg"
   location         : "Seo-gu,Incheon"
   email            : "kkbin07@naver.com"
   links:
