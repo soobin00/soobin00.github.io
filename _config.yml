@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kim Subin"
-  avatar           : path of avatar image, e.g. "/sb.jpg"
+  avatar           : path of avatar image, e.g. "/assets/images/sb.jpg"
   location         : "Seo-gu,Incheon"
   email            : kkbin07@naver.com
   links:
