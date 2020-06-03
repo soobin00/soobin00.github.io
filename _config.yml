@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Kim Subin"
-  avatar           : path of avatar image, e.g. "/assets/images/sb.jpg"
+  avatar           : "/assets/images/sb.jpg"
   location         : "Seo-gu,Incheon"
-  email            : kkbin07@naver.com
+  email            : "kkbin07@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -108,8 +108,8 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
-      icon: "https://www.facebook.com/profile.php?id=100005500006401"
-      # url: "https://facebook.com/"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -124,7 +124,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
-      icon: "https://www.facebook.com/profile.php?id=100005500006401"
+      icon: "https://www.facebook.com/"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
