@@ -95,8 +95,7 @@ analytics:
 author:
   name             : "soobin00"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seo-gu,Incheon"
   email            : kkbin07@naver.com
   links:
     - label: "Email"
