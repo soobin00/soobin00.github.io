@@ -109,7 +109,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "https://www.facebook.com/profile.php?id=100005500006401"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -125,7 +125,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "https://www.facebook.com/profile.php?id=100005500006401"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
