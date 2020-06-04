@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Profile"
+  - title: "프로필"
     url: /profile/
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "나의 취미"
+    url: /hobby/
+  - title: "나의 장단점"
+    url: /merit/
