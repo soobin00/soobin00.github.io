@@ -2,9 +2,9 @@
 main:
   - title: "프로필"
     url: /profile/
-  - title: "About"
-    url: /about/
   - title: "나의 취미"
     url: /hobby/
   - title: "나의 장단점"
     url: /merit/
+  - title: "About"
+    url: /about/
