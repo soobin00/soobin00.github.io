@@ -21,6 +21,7 @@ layout: single
 
 중부대학교 재학
 
+## 좋아하는 캐릭터
 
 <figure class="half">
     <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/kuromi.jpg"></a>
