@@ -1,7 +1,7 @@
 # main links
 main:
-   - title: "Profile"
-     url: /Profile/
+  - title: "Profile"
+    url: /rofile/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
