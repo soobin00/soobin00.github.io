@@ -1,6 +1,7 @@
 # main links
 main:
   - title: "Profile"
+    url: /Profile/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
