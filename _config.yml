@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "http://soobin00.com/"
+      url: "https://soobin00.github.io/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
