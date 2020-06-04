@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Kim Subin"
   bio              : "차근차근 개인 블로그"
-  avatar           : "/assets/images/me.jpg"
+  avatar           : "/assets/me.jpg"
   location         : "Seo-gu,Incheon"
   email            : "kkbin07@naver.com"
   links:
