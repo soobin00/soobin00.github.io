@@ -20,3 +20,10 @@ layout: single
 검단고등학교 졸업
 
 중부대학교 재학
+
+
+<figure class="half">
+    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/logo.jpg"></a>
+    <a href="/assets/images/image-filename-2-large.jpg"><img src="/assets/images/.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
