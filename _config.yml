@@ -170,8 +170,8 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - _docs # ignore Minimal Mistakes /docs
-  - _test # ignore Minimal Mistakes /test
+  - _docs/ # ignore Minimal Mistakes /docs
+  - _test/ # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
