@@ -23,7 +23,7 @@ layout: single
 
 
 <figure class="half">
-    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/logo.jpg"></a>
-    <a href="/assets/images/image-filename-2-large.jpg"><img src="/assets/images/.jpg"></a>
+    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/kuromi.jpg"></a>
+    <a href="/assets/images/image-filename-2-large.jpg"><img src="/assets/images/kitty.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
