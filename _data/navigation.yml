@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Profile"
-    url: /Profile/
+   - title: "Profile"
+     url: /Profile/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
