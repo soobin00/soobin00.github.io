@@ -1,5 +1,5 @@
 ---
-title: "이 블로그 뭐얌"
+title: "블로그 소개"
 permalink: /about/
 layout: single
 ---
